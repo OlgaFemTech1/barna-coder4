@@ -1,20 +1,4 @@
-Hola chicas
-estoy estresada atte. Angie
-Me eh fumado un porro ya estoy menos estresada
-vamos Amanda tu puedes con esto y mas
-De nada Amanda cariño
+Nuestro primer proyecto barna-coders4: Página de equipo
+Objetivo: maquetar una aplicación y crear interface usuario estática y adaptable.
 
-Hola soy Olga
-Gracias chicas, he logrado.
-
-por fin yupi
-
-
-
-
-
-
-Pa matarme
-I see the light:) Veo la luz
-
-tortura
+skills: html, FlexBox, Git, Métodos agiles, Kanban, css
